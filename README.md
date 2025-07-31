@@ -1,5 +1,4 @@
 # StoryChain
-# 📖 StoryChain
 
 > 🛠️ *Project built for the [Solana Hackathon] (https://solanamobile.radiant.nexus/)* — July 2025
 
