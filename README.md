@@ -2,7 +2,7 @@
 # 📖 StoryChain
 
 **StoryChain** is a creative decentralized storytelling platform built as a pet project.  
-The idea is simple: a neutral beginning of a story is given, and users take turns writing the next part. The community then **votes for the best continuation using their Solana wallets** — via a transaction or signature. The result? A unique, community-built story powered by blockchain and creativity.
+The idea is simple: a neutral beginning of a story is given, and users take turns writing the next part. The community then **votes for the best continuation using their Solana wallets** — via a signature. The result? A unique, community-built story powered by blockchain and creativity.
 
 ---
 
@@ -33,9 +33,6 @@ git clone https://github.com/your-username/StoryChain.git
 
 # Navigate into the project directory
 cd StoryChain
-
-# Install Python dependencies
-pip install -r requirements.txt
 
 # Start the Java application (example)
 # Ensure you have Java 17+ installed
