@@ -30,7 +30,7 @@ The idea is simple: a neutral beginning of a story is given, and users take turn
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/StoryChain.git
+git clone https://github.com/JavaLamer/StoryChain.git
 
 # Navigate into the project directory
 cd StoryChain
