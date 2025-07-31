@@ -2,6 +2,7 @@
 # 📖 StoryChain
 
 > 🛠️ *Project built for the [Solana Hackathon] (https://solanamobile.radiant.nexus/)* — July 2025
+
 **StoryChain** is a creative decentralized storytelling platform built as a pet project.  
 The idea is simple: a neutral beginning of a story is given, and users take turns writing the next part. The community then **votes for the best continuation using their Solana wallets** — via a signature. The result? A unique, community-built story powered by blockchain and creativity.
 
